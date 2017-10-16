@@ -3,6 +3,7 @@
 
 using namespace std;
 
+//如何判断是否为完全二叉树？？-》用队列呗！！！
 class tree
 {
 private:
